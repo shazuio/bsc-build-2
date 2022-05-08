@@ -5,11 +5,11 @@
     "static/js/2.ac6585b3.chunk.js": "./static/js/2.ac6585b3.chunk.js",
     "static/js/3.08ea9ee8.chunk.js": "./static/js/3.08ea9ee8.chunk.js",
     "main.js": "./static/js/main.d09beaba.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.8c199374.js",
+    "runtime-main.js": "./static/js/runtime-main.76783d5a.js",
     "static/css/6.d1a9f708.chunk.css": "./static/css/6.d1a9f708.chunk.css",
     "static/js/6.5f39bb91.chunk.js": "./static/js/6.5f39bb91.chunk.js",
     "static/js/7.b66ed292.chunk.js": "./static/js/7.b66ed292.chunk.js",
-    "static/js/8.58c62184.chunk.js": "./static/js/8.58c62184.chunk.js",
+    "static/js/8.74b12a4a.chunk.js": "./static/js/8.74b12a4a.chunk.js",
     "static/js/9.dfb1c659.chunk.js": "./static/js/9.dfb1c659.chunk.js",
     "static/js/10.04e1aa74.chunk.js": "./static/js/10.04e1aa74.chunk.js",
     "static/js/11.a9d3d358.chunk.js": "./static/js/11.a9d3d358.chunk.js",
@@ -40,7 +40,7 @@
     "static/media/winGame.64b3b094.mp3": "./static/media/winGame.64b3b094.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c199374.js",
+    "static/js/runtime-main.76783d5a.js",
     "static/css/6.d1a9f708.chunk.css",
     "static/js/6.5f39bb91.chunk.js",
     "static/js/main.d09beaba.chunk.js"
